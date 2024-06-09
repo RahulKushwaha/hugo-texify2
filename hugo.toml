@@ -10,12 +10,12 @@ weight = 1
 [[menu.main]]
 identifier = "archives"
 name = "Archive"
-url = "/post/"
+url = "/post/index.html"
 weight = 2
 [[menu.main]]
 identifier = "about"
 name = "About"
-url = "/about/"
+url = "/about/index.html"
 weight = 3
 
 [taxonomies]
